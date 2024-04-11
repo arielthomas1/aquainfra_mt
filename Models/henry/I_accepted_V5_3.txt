@@ -1,0 +1,134 @@
+You accepted the term and conditions of the iMOD Software License Agreement on 2-4-2024
+iMOD Software License Agreement
+
+This is a license for the iMOD-executables, distributed from the Stichting Deltares website. If you require a printed version of this iMOD Software License Agreement, e.g. prior to accepting these terms and conditions, please print the pdf-file ‘iMOD_Software_License_Agreement_V5_3.pdf’. You should have received a copy of this pdf-file; if not, see 
+http://oss.deltares.nl/web/iMOD/iMOD_software_license_agreement.
+
+Read this software license agreement
+
+General
+
+This is a legal agreement between the prospective user, either an individual or an entity, (hereafter: “Licensee”) and Stichting Deltares (hereafter “Deltares”) to license to Licensee the computer program called iMOD as described below under “DESCRIPTION OF iMOD” (hereafter “iMOD”). 
+By marking the “Yes, I Accept”-checkbox in the iMOD-GUI or entering “Y” or “y” when prompted in iMODFLOW:
+
+1. You expressly declare being authorized to act on behalf of Licensee for the purposes of accepting this software license agreement (hereafter “License Agreement”);
+2. Licensee expressly accepts this License Agreement and accepts to be legally bound by the terms and conditions contained therein. 
+
+If you are not authorized to act on behalf of Licensee to agree upon this License Agreement, please do not mark the “Yes, I accept”-checkbox in the iMOD-GUI and do not enter “Y” or “y” when prompted from iMODFLOW and exit the iMOD-program by clicking the “Cancel” checkbox in the iMOD-GUI and exit the iMOD-GUI and do not enter “Y” or “y” when prompted in iMODFLOW and exit iMODFLOW by hitting the enter-key. Furthermore do not mark the “Yes, I Accept”-checkbox in the iMOD-GUI or enter “Y” or “y” when prompted in iMODFLOW and end iMOD if Licensee does not agree with the License Agreement. 
+
+WHEREAS:
+Deltares owns the intellectual property of the computer program developed by Deltares, including documentation, as described below under DESCRIPTION OF iMOD, hereinafter referred to as “iMOD”;
+Licensee wishes to acquire a non-exclusive and non-transferable license, without the right of sub-licensing, to use iMOD within Licensee‘s organisation;
+Deltares grants Licensee an iMOD-license on the following conditions.
+
+AGREE AS FOLLOWS:
+
+Article 1 License
+
+Deltares grants Licensee a conditional, non-exclusive, non-transferable license without the right to sublicense or modify, to use iMOD within the organisation of Licensee. This License Agreement is provided solely under the condition that Licensee complies with the provisions of this License Agreement. 
+
+Article 2 Use of iMOD (including the documentation) 
+
+1. Licensee shall only be authorised to use iMOD within its own organisation and for its own use. Licensee shall not be permitted to make any other use of iMOD or to make available or grant access to iMOD to any third party.
+2. Licensee shall not be authorised to modify and/or adjust iMOD and/or to (otherwise) carry out alterations to it and/or to integrate iMOD in other software, unless and only in so far as Licensee has obtained express written permission to that effect in advance from Deltares. iMOD may – furthermore – only be used on the hardware platform & operating system and the system software as defined below under OTHER REQUIREMENTS FOR THE USE OF iMOD or on alternatives for the hardware platform & operating system and/or the System Software that have been approved by Deltares in writing.
+3. Licensee shall not be authorised to (have others) copy iMOD in any manner whatsoever or to (have others) multiply it (in any other way), except for backup purposes. 
+
+Article 3 Intellectual Property Rights, Ownership 
+
+1. All rights, including the intellectual property rights, to iMOD and documentation are owned by Deltares. Licensee acknowledges that this License Agreement does not provide Licensee with any rights or ownership to iMOD or documentation, including any rights to the intellectual property.
+2. All changes to iMOD developed (or to be developed in the future) by Deltares will remain the intellectual property of Deltares. In so far as Licensee obtains any intellectual property to these features or functionalities (other than the right to use such changes under this license), Licensee will transfer all intellectual property concerning the above-mentioned feature(s) and/or functionalities to Deltares.
+3. All developments to iMOD are always intended to be distributed by Deltares to all licensees. Deltares shall not bind herself in any contract or whatsoever to limit the distribution of new developments of iMOD.
+4. Deltares represents and warrants that to the best of its knowledge iMOD does not infringe on third party intellectual property rights.
+
+Article 4 Confidentiality
+
+1. Licensee shall keep confidential iMOD which Licensee has obtained and/or obtains, in any manner, from Deltares under or in connection with the License Agreement. 
+This obligation shall at any rate include: 
+a. 
+Treating of iMOD confidentially; 
+b.
+releasing iMOD solely to those employees of Licensees under  the conditions of this License Agreement who require access to iMOD, whereby Licensee will oblige these employees of the same confidentiality as Licensee;
+c.
+The non-disclosure of information and/or data related to the License Agreement to third parties and/or refraining from making such information and/or data public in any other way without the prior express and written consent of Deltares, to be obtained for each separate event. 
+d.
+Using information and/or data obtained solely for the purposes for which they were obtained.
+
+2. Licensee‘s obligation of confidentiality referred to in Article 4.1 shall not apply to information and/or data that were already at Licensee‘s free disposal, or were part of the public domain, or were already included in generally accessible literature at the time when they were obtained by Licensee, or that were obtained by Licensee from a third party or third parties who was or were free to disclose the relevant information and/or data and who had not obtained the information and/or data from Deltares.
+
+Article 5  No guarantee, no warrantee 
+
+Deltares has developed, or produced, as the case may be, iMOD to the best of its abilities and in accordance with the state of art. However, Deltares does not give any guarantee or warrantee with respect to iMOD or its functioning and the contents thereof and/or the results obtained or to be obtained with iMOD, or the correctness or quality thereof.  
+
+Article 6  Duration, Termination 
+
+1. This License Agreement is concluded for an indefinite period, subject to termination in accordance with the provisions of article 6.2 and 6.3. Except based on these provisions, parties are not allowed to terminate the License Agreement. 
+2. Without prejudice to their rights to receive compensation, parties are entitled to terminate the License Agreement  in writing with immediate effect, without judicial intervention being required, if the other party fails to comply, or to comply timely or fully, with its obligations under the License Agreement, provided that the defaulting party shall be granted one month’s time to comply with its obligations as yet, in which event the License Agreement shall continue to be in force.
+3. Deltares shall be entitled to terminate the License Agreement forthwith in writing with immediate effect, without judicial intervention being required, if Licensee is adjudged bankrupt, is granted a moratorium on payments, is dissolved or liquidated, or if (an) application(s) to this end  has (have) been filled.
+4. In the event of termination of the License Agreement, Licensee shall immediately uninstall and remove iMOD from its system(s). 
+5. The following provisions shall remain in full force after termination of the License Agreement as set forth in this Article: Article 3.2, Article 4 and Article 7. 
+
+Article 7  Liability
+
+1. Licensee agrees that Deltares (including its personnel and non-employees who (have) undertake(n) activities for Deltares) shall not be responsible to Licensee for any loss-of-profit, direct, indirect, incidental, special or consequential damages arising out of the License Agreement or the installation or the use of iMOD, except for damages caused by wilful act/conduct or gross negligence of Deltares or its personnel.
+2. Licensee shall indemnify, hold harmless and defend Deltares against any action brought by a third party against Deltares to the extent that such a claim is connected to the use of iMOD by Licensee and/or third parties at whose disposal the Licensee has placed iMOD in accordance with this License Agreement and/or these results or to whom he has otherwise made them known the results, including use of the results of use by Licensee and/or third parties.
+
+Article 8  Other provisions
+
+1. Licensee is not allowed to assign any rights and/or obligations under the License Agreement, entirely or in part, to third parties without the prior written consent of Deltares.
+2. Any disputes arising from the License Agreement or from agreements arising therefrom, shall be submitted solely to the competent court of The Hague.
+3. This License Agreement and all the agreements arising therefrom are governed exclusively by Netherlands law.
+
+DESCRIPTION OF iMOD
+
+This iMOD Software License Agreement contains the following executables (<xx>: bugfix-versionnumber):
+
+- The iMOD Graphical User Interface (iMOD-GUI): iMOD_V5_3_X32R.exe and iMOD_V5_3_X64R.exe:
+A computer program to perform a variety of graphical visualizations of Model Configurations and/or (in)directly related geographical information. The iMOD GUI itself if fully written in Fortran9x and compiled by the Intel Visual Fortran Compiler Professional v11.1.0D054 in conjunction with Winteracter 10 (Interactive Software Services Ltd (ISS)).
+
+- The MODFLOW computational core (iMODFLOW):
+iMODFLOW_V5_3_X32R.exe and
+iMODFLOW_V5_3_METASWAP_SVN1233_X64R.exe:
+
+iMODFLOW is partly based on the USGS MODFLOW2005 source code; for iMOD the USGS MODFLOW2005 source code has been expanded and extensively modified by Stichting Deltares. 
+
+The original USGS MODFLOW source code can be downloaded from the USGS website http://www.usgs.gov/. The original MODFLOW2005 source code incorporated in the Deltares-executables is covered by the USGS Software User Rights Notice; you should have received a copy of this notice along with this program. If not, see http://water.usgs.gov/software/help/notice.
+
+The X64-bit iMODFLOW-executable includes the MetaSWAP-module SVN version number 1047, part of SIMGRO V7_2_27 as described in the SIMGRO-release notes ftp://ftp.wur.nl/simgro/doc/Change_log/ Release_Notes_SIMGRO_V7_2_27.pdf. MetaSWAP has been developed by Alterra - Wageningen UR. For more info on MetaSWAP, see the iMOD user manual, Annex 1. For more info on Alterra – Wageningen UR, see http://www.wageningenur.nl/en/Expertise-Services/Research-Institutes/alterra.htm.
+
+iMOD user manual
+
+A pdf-file of the latest version of the iMOD-user manual, downloadable from oss.deltares.nl/web/iMOD/user-manual.
+
+NETCDF
+
+iMOD makes use of functions available in the NetCDF library of www.unidata.ucar.edu. The file ‘NetCDF.dll’ is redistributed together with the iMOD-executables. The NetCDF.dll-file can be used under the conditions as described in http://www.unidata.ucar.edu/software/netcdf/copyright.html.
+
+OTHER REQUIREMENTS FOR THE USE OF iMOD
+
+
+HARDWARE PLATFORM & OPERATING SYSTEM 
+
+iMOD works on IBM-compatible personal computers equipped with at least:
+1. a Pentium or compatible processor;
+2. 512 MB internal memory (2045MB recommended);
+3. 100 MB available on the hard disk (10GB is recommended in case large model simulations need to be carried out);
+4. A graphics adapter with 32 MB video memory and screen resolution of 800-600 (256MB video memory and a screen resolution of 1024x768 is recommend). Moreover, an graphical card that supports OpenGL (OpenGL is a trademark of Silicon Graphics Inc.), such as an ATI Radeon HD or NVIDIA graphical card is necessary to use the 3D rendering.
+
+Please note: it is permitted to install the Model System on a different Hardware Platform as long as it is a computer similar to the above-mentioned computer. The transfer of the Model System to a dissimilar computer may endanger the working of the Model System and require adjustments in the Configuration. 
+
+iMOD-GUI is available for a 32- and 64-bit system and runs on the following platforms: Windows XP / Server 2003 / Vista Business / Vista Ultimate / Server 2008 / 7; the 64-bit version of the iMODFLOW-executable includes, the 32-bit version does not include MetaSWAP.
+
+SYSTEM SOFTWARE
+
+Adobe Acrobat is a family of application software developed by Adobe Systems to view, create, manipulate, print and manage files in Portable Document Format (PDF). All members of the family, except Adobe Reader (formerly Acrobat Reader), are commercial software; Adobe Reader however, is available as freeware and can be downloaded from Adobe‘s web site. Adobe Reader enables users to view and print PDF files but has negligible PDF creation capabilities. Acrobat and Reader are widely used as a way to present information with a fixed layout similar to a paper publication.
+
+
+Stichting Deltares
+Boussinesqweg 1
+P.O. Box 177
+2600 MH Delft, The Netherlands
+Tel:	 +31 (0) 88 335 82 73
+Fax:	 +31 (0) 88 355 85 82
+e-mail: info@deltares.nl
+web:    www.deltares.com
+Chamber of Commerce no. 41146461

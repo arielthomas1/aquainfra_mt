@@ -1,0 +1,180 @@
+[gen]
+    runtype = SEAWAT
+    modelname = Henry
+    writehelp = False
+    result_dir = results
+    packages = adv, bas6, btn, dis, dsp, gcg, lpf, oc, pcg, ssm, vdf, wel
+    coord_xll = 0.0
+    coord_yll = 0.0
+    start_year = 2000
+    start_month = 12
+    start_day = 31
+    start_hour = 00
+    start_minute = 00
+
+[dis]
+    nlay = 50
+    nrow = 1
+    ncol = 100
+    delc_r? = 1.0
+    delr_c? = 1.0
+    top = 50.0
+    botm_l1 = 49.0
+    botm_l2 = 48.0
+    botm_l3 = 47.0
+    botm_l4 = 46.0
+    botm_l5 = 45.0
+    botm_l6 = 44.0
+    botm_l7 = 43.0
+    botm_l8 = 42.0
+    botm_l9 = 41.0
+    botm_l10 = 40.0
+    botm_l11 = 39.0
+    botm_l12 = 38.0
+    botm_l13 = 37.0
+    botm_l14 = 36.0
+    botm_l15 = 35.0
+    botm_l16 = 34.0
+    botm_l17 = 33.0
+    botm_l18 = 32.0
+    botm_l19 = 31.0
+    botm_l20 = 30.0
+    botm_l21 = 29.0
+    botm_l22 = 28.0
+    botm_l23 = 27.0
+    botm_l24 = 26.0
+    botm_l25 = 25.0
+    botm_l26 = 24.0
+    botm_l27 = 23.0
+    botm_l28 = 22.0
+    botm_l29 = 21.0
+    botm_l30 = 20.0
+    botm_l31 = 19.0
+    botm_l32 = 18.0
+    botm_l33 = 17.0
+    botm_l34 = 16.0
+    botm_l35 = 15.0
+    botm_l36 = 14.0
+    botm_l37 = 13.0
+    botm_l38 = 12.0
+    botm_l39 = 11.0
+    botm_l40 = 10.0
+    botm_l41 = 9.0
+    botm_l42 = 8.0
+    botm_l43 = 7.0
+    botm_l44 = 6.0
+    botm_l45 = 5.0
+    botm_l46 = 4.0
+    botm_l47 = 3.0
+    botm_l48 = 2.0
+    botm_l49 = 1.0
+    botm_l50 = 0.0
+    laycbd_l? = 0
+    nper = 9
+    perlen_p1:3 = 365.0
+    perlen_p4 = 366.0
+    perlen_p5:7 = 365.0
+    perlen_p8 = 366.0
+    perlen_p9 = 365.0
+    nstp_p? = 1
+    sstr_p? = tr
+    tsmult_p? = 1.0
+
+[bas6]
+    ibound_l$ = bas/ibound_l$.idf
+    hnoflo = 1e+30
+    strt_l? = 50.0
+
+[oc]
+    savehead_p?_l? = True
+    saveconclayer_p?_l? = True
+    savebudget_p?_l? = True
+    saveheadtec_p?_l? = False
+    saveconctec_p?_l? = False
+    savevxtec_p?_l? = False
+    savevytec_p?_l? = False
+    savevztec_p?_l? = False
+    saveheadvtk_p?_l? = False
+    saveconcvtk_p?_l? = False
+    savevelovtk_p?_l? = False
+
+[lpf]
+    ilpfcb = 0
+    hdry = 1e+20
+    layvka_l? = 0
+    laytyp_l? = 0
+    layavg_l? = 0
+    chani_l? = 1.0
+    hk_l$ = lpf/k_horizontal_l$.idf
+    vka_l$ = lpf/k_vertical_l$.idf
+    ss_l? = 1.0
+    sy_l? = 0.15
+    laywet_l? = 0
+
+
+
+
+
+[wel]
+    mwelsys = 1
+    mxactw = 50
+    iwelcb = 0
+    wel_p?_s1_l$ = wel/rate.ipf
+
+[pcg]
+    mxiter = 150
+    iter1 = 30
+    npcond = 1
+    hclose = 1e-06
+    rclose = 1.0
+    relax = 0.98
+    iprpcg = 1
+    mutpcg = 0
+    damp = 1.0
+
+[btn]
+    ncomp = 1
+    mcomp = 1
+    thkmin = 0.01
+    cinact = 1e+30
+    sconc_t1_l$ = btn/starting_concentration_l$.idf
+    icbund_l$ = btn/icbund_l$.idf
+    dz_l1:50 = 1.0
+    prsity_l? = 35.0
+    tsmult_p? = 1.0
+    dt0_p? = 0.0
+    mxstrn_p? = 50000
+
+[vdf]
+    mtdnconc = 1
+    densemin = 1000.0
+    densemax = 1025.0
+    denseref = 1000.0
+    denseslp = 0.71
+    dnscrit = 0.01
+    nswtcpl = 1
+    iwtable = 0
+    mfnadvfd = 2
+
+
+[adv]
+    mixelm = -1
+    percel = 1.0
+
+
+[dsp]
+    al_l? = 2.0
+    trpt_l? = 0.1
+    trpv_l? = 0.1
+    dmcoef_l? = 1.886e-05
+
+[ssm]
+    mxss = 100
+
+[gcg]
+    mxiter = 150
+    iter1 = 30
+    isolve = 3
+    ncrs = 0
+    cclose = 1e-06
+    iprgcg = 0
